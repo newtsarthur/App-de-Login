@@ -5,6 +5,10 @@
     font-size: 16;
     text-align: start;
 
+    label {
+        margin-bottom: 10px;
+    }
+
     .input-content {
         width: 100%;
         border-radius: 8px;
@@ -14,7 +18,7 @@
             padding: 12px;
             background-color: $primary-color;
             border-radius:  0 8px 8px 0;
-            width: 48px;
+            width: 51px;
 
             img {
                 height: 20px;
